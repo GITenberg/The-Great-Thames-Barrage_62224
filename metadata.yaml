@@ -1,0 +1,25 @@
+_repo: The-Great-Thames-Barrage_62224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barber, Thomas Walter
+    deathdate: 1917
+    gutenberg_agent_id: '49922'
+    url: http://www.gutenberg.org/2009/agents/49922
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thames River (England)'
+- !lcsh 'River engineering'
+- !lcc 'TC'
+- !lcsh 'Barrages -- England -- Thames River'
+- GITenberg
+title: The Great Thames Barrage
+url: http://www.gutenberg.org/ebooks/62224
